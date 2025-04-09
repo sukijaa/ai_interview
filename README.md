@@ -708,7 +708,5 @@ If you enjoyed building this project, take your skills to the next level by expl
 
 Get started with the official [Next.js Documentation](https://nextjs.org/docs) or dive into free hands-on tutorials via the [Next.js Learn platform](https://nextjs.org/learn).
 
-<a href="https://nextjs.org/learn" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Next.js Learn Banner">
-</a>
+
 
