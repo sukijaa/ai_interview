@@ -691,15 +691,24 @@ export const dummyInterviews: Interview[] = [
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
+This project includes custom icons, images, and design files used throughout the application. You may use your own assets or replace them as needed in the `public/` directory.
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
+**Advance Your Skills with Next.js**
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+If you enjoyed building this project, take your skills to the next level by exploring advanced concepts in Next.js, such as:
 
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
+- Server-side rendering (SSR)
+- Static site generation (SSG)
+- API routes
+- Middleware
+- Authentication
+- Performance optimization
+
+Get started with the official [Next.js Documentation](https://nextjs.org/docs) or dive into free hands-on tutorials via the [Next.js Learn platform](https://nextjs.org/learn).
+
+<a href="https://nextjs.org/learn" target="_blank">
+   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Next.js Learn Banner">
 </a>
+
